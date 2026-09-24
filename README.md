@@ -31,8 +31,7 @@ The main objectives of this project are to:
 - Common Table Expressions (CTEs)
 ## 📂 Dataset
 
-**The project uses a layoffs dataset containing information such as:
-**
+The project uses a layoffs dataset containing information such as:
 - Company
 - Location
 - Industry
